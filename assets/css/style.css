@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Caesar Dressing;
+    font-size: 14px;
+}
+
+.topnav.navbar{
+    background-color: #F9F9F9;
+    border-bottom: 1px solid #E0E0E0;
+    min-height: 40px;
+    margin-bottom: 0px;
+}
+
+.topnav .navbar-nav > li > a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #3D3D3D;
+}
+
+.topnav .nav>li>a:hover; .dropdown.open .dropdown-toggle{
+    background: none;
+    color: #59B210;
+}
+
+header {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #E0E0E0;
+}
